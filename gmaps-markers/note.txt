@@ -1,0 +1,12 @@
+https://cloud.google.com/blog/products/maps-platform/build-maps-faster-web-components
+Google Maps Platform API key
+
+(using advanced markers also requires a map with a map ID) and view the documentation
+
+The Map component displays a map on a web page and can have additional map-related elements 
+
+open source extended component library builds upon the Web Components available from the Maps JavaScript API and reduces boilerplate, encapsulates best practices and common UI/UX patterns, is mobile responsive out-of-the-box, and has global styling tokens which makes it easy to customize every component to look and feel like your brand. It also provides a wide range of additional components for styling, place details, autocomplete, and more.
+
+https://github.com/googlemaps/extended-component-library
+https://www.npmjs.com/package/@googlemaps/extended-component-library
+https://developers.google.com/maps/documentation/javascript/web-components/overview?utm_source=Website&utm_medium=Blog&utm_campaign=Maps-global-demandgen-website-cs-GMP_UTM_Campaign_Blog&utm_content=web_components_docs
